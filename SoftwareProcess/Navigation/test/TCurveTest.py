@@ -27,19 +27,20 @@ class TCurveTest(unittest.TestCase):
 #                out-of-bounds n    n=1; n=30
 #                missing n
 #
-# Happy path 
-    def test100_010_ShouldConstruct(self):
-        self.assertIsInstance(T.TCurve(self.nominalN), T.TCurve)
+# Happy path
+#    def test100_010_ShouldConstruct(self):
+#        self.assertIsInstance(T.TCurve(self.nominalN), T.TCurve)
         # additional tests are for boundary value coverage
-        self.assertIsInstance(T.TCurve(2), T.TCurve)
-        self.assertIsInstance(T.TCurve(29), T.TCurve)
-        
-# Sad path  
+#        self.assertIsInstance(T.TCurve(2), T.TCurve)
+#        self.assertIsInstance(T.TCurve(29), T.TCurve)
+   
+# Sad path
+
     def test100_910_ShouldRaiseExceptionNonintegerN(self):
         expectedString = "TCurve.__init__:"
         with self.assertRaises(ValueError) as context:
             T.TCurve("abc")                           
-        self.assertEquals(expectedString, context.exception.args[0][0:len(expectedString)])    
+        self.assertEquals(expectedString, context.exception.args[0][0:len(expectedString)]) 
 
     def test100_920_ShouldRaiseExceptionOnBelowBoundN(self):
         expectedString = "TCurve.__init__:"
@@ -137,7 +138,7 @@ class TCurveTest(unittest.TestCase):
         with self.assertRaises(ValueError) as context:
             myT.p(tails=1)                       
         self.assertEquals(expectedString, context.exception.args[0][0:len(expectedString)]) 
-        
+      
     def test600_920ShouldRaiseExceptionOnOutOfBoundsT(self):
         expectedString = "TCurve.p:"
         myT = T.TCurve(self.nominalN)
@@ -154,7 +155,7 @@ class TCurveTest(unittest.TestCase):
             
     def test600_930ShouldRaiseExceptionInvalidTails(self):
         myT = T.TCurve(self.nominalN)
-        with self.assertRaises(ValueError) as context:
+        with self.assertRaises(ValueError) :
             myT.p(t=self.nominalT, tails=0)
 
 #--------------------------------------------------------------------
@@ -229,4 +230,36 @@ class TCurveTest(unittest.TestCase):
     def test400_020_ShouldCalculateF(self):
         myT = T.TCurve(self.nominalN)
         self.assertAlmostEquals(myT.f(1, 5), 0.578703704)
+    
+    def test500_010_ShouldWorkWithHardCodedSimpsons(self):
+        def f(u,n):
+            return u
+        n = 5
+        myT = T.TCurve(n)
+        self.assertEquals(myT.integrate(1, n, f), 0.5)
+
+    def test500_020_ShouldWorkWithHardCodedSimpsons(self):
+        def f(u,n):
+            return u**2
+        n = 5
+        myT = T.TCurve(n)
+
+        self.assertAlmostEquals(myT.integrate(1, n, f), 0.333333,5)
         
+        
+    def test500_030_ShouldWorkWithHardCodedSimpsons(self):
+        def f(u,n):
+            return u**6
+        n = 5
+        myT = T.TCurve(n)
+
+        self.assertAlmostEquals(myT.integrate(1, n, f), 0.14285,4)
+        
+        
+    def test500_040_ShouldWorkWithHardCodedSimpsons(self):
+        def f(u,n):
+            return u**100
+        n = 5
+        myT = T.TCurve(n)
+
+        self.assertAlmostEquals(myT.integrate(1, n, f), 0.00990,4)

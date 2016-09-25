@@ -29,11 +29,11 @@ class TCurve(object):
         
         constant = self. calculateConstant(self.n)
         integration = self.integrate(t, self.n, self.f)
+        
         if(tails == 1):
             result = constant * integration + 0.5
         else:
             result = constant * integration * 2
-            
         if(result > 1.0):
             raise ValueError(functionName + "result > 1.0")
         
@@ -62,10 +62,29 @@ class TCurve(object):
         return result
     
     def integrate(self, t, n, f):
-        pass
-        
-        
-    
-        
-            
-        
+        epsilon = 0.001
+        lowBound = 0
+        highBound = t
+        simpsonOld = 0
+        simpsonNew = epsilon
+        s = 4 #value of your choice (a good starting value is 4)
+        while (abs((simpsonNew - simpsonOld ) / simpsonNew) > epsilon):
+            simpsonOld = simpsonNew
+            w = (float)(highBound - lowBound) / s 
+            Right_side = 0
+            i = 0
+            inside = lowBound 
+            while (i != s+1):
+                if i == 0 or i == s:
+                    multiple = 1  
+                elif i%2 == 1:
+                    multiple = 4
+                elif i%2 ==0:
+                    multiple = 2                
+                Right_side  += ( multiple * f(inside,n) )
+                i += 1
+                inside += w
+            simpsonNew = (w/3) * Right_side
+            s = s * 2 
+        return simpsonNew      
+
