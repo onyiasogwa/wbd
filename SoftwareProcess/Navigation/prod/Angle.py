@@ -15,8 +15,9 @@ class Angle():
         try:
             int (degrees)
             self.degrees = int (degrees % 360)
-            self.minutes =  degrees % 1
-            return self.degrees + self.minutes
+            self.minutes = round ((degrees % 1)*60, 1 )/60
+            x = float (self.degrees + self.minutes)
+            return float (x)
         except ValueError:
             raise ValueError("Angle.setDegrees: Hey! Degree is not a number.")
 #   ----------------------------------------------------- 
@@ -43,20 +44,20 @@ class Angle():
                     raise ValueError("Angle.setDegreesAndMinutes: Hey! Minutes must have only one decimal place.")
                 angleString[1] = float(angleString[1])
             else:
-                angleString[1] = int(angleString[1])
+                angleString[1] = float(angleString[1])
         except ValueError :
             raise ValueError("Angle.setDegreesAndMinutes: Hey! The minutes is not Number.")
         # check if the second part is not negative
         if (angleString[1] < 0):
             raise ValueError("Angle.setDegreesAndMinutes: Hey! The minutes is Negative.")
         
+        if (angleString[0] < 0):
+            angleString[1] = angleString[1] * -1 
         
         convert_string = angleString[0] + (angleString[1] / 60)
-         
         self.degrees = int (convert_string % 360)
-        self.minutes = round (convert_string % 1,1) 
-        
-        return convert_string
+        self.minutes = convert_string % 1 
+        return float(self.degrees + self.minutes)
 #   ----------------------------------------------------- 
     def add(self,angle = None):
         if (angle == None):
@@ -68,9 +69,9 @@ class Angle():
         total_degree = self.degrees + angle.degrees + self.minutes + angle.minutes
         
         self.degrees = int (total_degree % 360)
-        self.minutes = round ( total_degree % 1, 1 )  
-        
-        return self.degrees + self.minutes
+        self.minutes = total_degree % 1  
+       
+        return float(self.degrees + self.minutes)
 #   ----------------------------------------------------- 
     def subtract(self,angle = None):
         if (angle == None):
@@ -84,7 +85,7 @@ class Angle():
         self.degrees = int (total_degree % 360)
         self.minutes = round ( total_degree % 1, 1 )  
         
-        return self.degrees + self.minutes
+        return float(self.degrees + self.minutes)
 #   ----------------------------------------------------- 
     def compare(self, angle = None):
         if (angle == None):
@@ -105,6 +106,6 @@ class Angle():
         return String_Angle
 #   ----------------------------------------------------- 
     def getDegrees(self):
-        return round (self.degrees + self.minutes , 1 ) 
+        return float (self.degrees + self.minutes) 
         
                                             
