@@ -1,0 +1,495 @@
+LOG: 2016-10-14 15:46:51-06:00tStart of log
+LOG: 2016-10-14 15:46:51-06:00tStart of log
+LOG: 2016-10-14 15:46:51-06:00tStart of sighting file hi.xml
+LOG: 2016-10-14 15:46:51-06:00tStart of log
+LOG: 2016-10-14 15:46:51-06:00tStart of log
+LOG: 2016-10-14 15:46:51-06:00tStart of log
+LOG: 2016-10-14 15:46:51-06:00tStart of log
+LOG: 2016-10-14 15:46:51-06:00tStart of log
+LOG: 2016-10-14 15:46:51-06:00tStart of log
+LOG: 2016-10-14 15:46:51-06:00tStart of log
+LOG: 2016-10-14 15:46:51-06:00tStart of sighting file hi.xml
+LOG: 2016-10-14 15:46:51-06:00tAldebaran	2016-03-01	23:40:01	15d01.5
+LOG: 2016-10-14 15:46:51-06:00tPeacock	2016-03-02	00:05:05	45d11.9
+LOG: 2016-10-14 15:46:51-06:00tEnd of sighting file hi.xml
+LOG: 2016-10-14 15:46:51-06:00tStart of log
+LOG: 2016-10-14 15:46:51-06:00tStart of log
+LOG: 2016-10-14 15:46:51-06:00tStart of sighting file altitudelessthan1.xml
+LOG: 2016-10-14 15:46:51-06:00tStart of log
+LOG: 2016-10-14 15:46:51-06:00tStart of sighting file missBody.xml
+LOG: 2016-10-14 15:46:51-06:00tStart of log
+LOG: 2016-10-14 15:46:51-06:00tStart of sighting file missDate.xml
+LOG: 2016-10-14 15:46:51-06:00tStart of log
+LOG: 2016-10-14 15:46:51-06:00tStart of sighting file missTime.xml
+LOG: 2016-10-14 15:46:51-06:00tStart of log
+LOG: 2016-10-14 15:46:51-06:00tStart of sighting file missobservation.xml
+LOG: 2016-10-14 15:46:51-06:00tStart of log
+LOG: 2016-10-14 15:46:51-06:00tStart of sighting file obgreatthan90.xml
+LOG: 2016-10-14 15:46:51-06:00tStart of log
+LOG: 2016-10-14 15:46:51-06:00tStart of sighting file oblessthan0ford.xml
+LOG: 2016-10-14 15:46:51-06:00tStart of log
+LOG: 2016-10-14 15:46:51-06:00tStart of sighting file oblessthan0form.xml
+LOG: 2016-10-14 15:46:51-06:00tStart of log
+LOG: 2016-10-14 15:46:51-06:00tStart of sighting file obgreatthan60.xml
+LOG: 2016-10-14 15:46:51-06:00tStart of log
+LOG: 2016-10-14 15:46:51-06:00tStart of sighting file heightlessthan0.xml
+LOG: 2016-10-14 15:46:51-06:00tStart of log
+LOG: 2016-10-14 15:46:51-06:00tStart of sighting file tempmprethan120.xml
+LOG: 2016-10-14 15:46:51-06:00tStart of log
+LOG: 2016-10-14 15:46:51-06:00tStart of sighting file templessthan-20.xml
+LOG: 2016-10-14 15:46:51-06:00tStart of log
+LOG: 2016-10-14 15:46:51-06:00tStart of sighting file preslessthan100.xml
+LOG: 2016-10-14 15:46:51-06:00tStart of log
+LOG: 2016-10-14 15:46:51-06:00tStart of sighting file presmorethan1100.xml
+LOG: 2016-10-14 15:46:51-06:00tStart of log
+LOG: 2016-10-14 15:46:51-06:00tStart of sighting file horisdifferentname.xml
+LOG: 2016-10-14 15:48:18-06:00tStart of log
+LOG: 2016-10-14 15:48:18-06:00tStart of log
+LOG: 2016-10-14 15:48:18-06:00tStart of sighting file hi.xml
+LOG: 2016-10-14 15:48:18-06:00tStart of log
+LOG: 2016-10-14 15:48:18-06:00tStart of log
+LOG: 2016-10-14 15:48:18-06:00tStart of log
+LOG: 2016-10-14 15:48:18-06:00tStart of log
+LOG: 2016-10-14 15:48:18-06:00tStart of log
+LOG: 2016-10-14 15:48:18-06:00tStart of log
+LOG: 2016-10-14 15:48:18-06:00tStart of log
+LOG: 2016-10-14 15:48:18-06:00tStart of sighting file hi.xml
+LOG: 2016-10-14 15:48:18-06:00tAldebaran	2016-03-01	23:40:01	15d01.5
+LOG: 2016-10-14 15:48:18-06:00tPeacock	2016-03-02	00:05:05	45d11.9
+LOG: 2016-10-14 15:48:18-06:00tEnd of sighting file hi.xml
+LOG: 2016-10-14 15:48:18-06:00tStart of log
+LOG: 2016-10-14 15:48:18-06:00tStart of log
+LOG: 2016-10-14 15:48:18-06:00tStart of sighting file altitudelessthan1.xml
+LOG: 2016-10-14 15:48:18-06:00tStart of log
+LOG: 2016-10-14 15:48:18-06:00tStart of sighting file missBody.xml
+LOG: 2016-10-14 15:48:18-06:00tStart of log
+LOG: 2016-10-14 15:48:18-06:00tStart of sighting file missDate.xml
+LOG: 2016-10-14 15:48:18-06:00tStart of log
+LOG: 2016-10-14 15:48:18-06:00tStart of sighting file missTime.xml
+LOG: 2016-10-14 15:48:18-06:00tStart of log
+LOG: 2016-10-14 15:48:18-06:00tStart of sighting file missobservation.xml
+LOG: 2016-10-14 15:48:18-06:00tStart of log
+LOG: 2016-10-14 15:48:18-06:00tStart of sighting file obgreatthan90.xml
+LOG: 2016-10-14 15:48:18-06:00tStart of log
+LOG: 2016-10-14 15:48:18-06:00tStart of sighting file oblessthan0ford.xml
+LOG: 2016-10-14 15:48:18-06:00tStart of log
+LOG: 2016-10-14 15:48:18-06:00tStart of sighting file oblessthan0form.xml
+LOG: 2016-10-14 15:48:18-06:00tStart of log
+LOG: 2016-10-14 15:48:18-06:00tStart of sighting file obgreatthan60.xml
+LOG: 2016-10-14 15:48:18-06:00tStart of log
+LOG: 2016-10-14 15:48:18-06:00tStart of sighting file heightlessthan0.xml
+LOG: 2016-10-14 15:48:18-06:00tStart of log
+LOG: 2016-10-14 15:48:18-06:00tStart of sighting file tempmprethan120.xml
+LOG: 2016-10-14 15:48:18-06:00tStart of log
+LOG: 2016-10-14 15:48:18-06:00tStart of sighting file templessthan-20.xml
+LOG: 2016-10-14 15:48:18-06:00tStart of log
+LOG: 2016-10-14 15:48:18-06:00tStart of sighting file preslessthan100.xml
+LOG: 2016-10-14 15:48:18-06:00tStart of log
+LOG: 2016-10-14 15:48:18-06:00tStart of sighting file presmorethan1100.xml
+LOG: 2016-10-14 15:48:18-06:00tStart of log
+LOG: 2016-10-14 15:48:18-06:00tStart of sighting file horisdifferentname.xml
+LOG: 2016-10-14 15:48:50-06:00tStart of log
+LOG: 2016-10-14 15:48:50-06:00tStart of log
+LOG: 2016-10-14 15:48:50-06:00tStart of sighting file hi.xml
+LOG: 2016-10-14 15:48:50-06:00tStart of log
+LOG: 2016-10-14 15:48:50-06:00tStart of log
+LOG: 2016-10-14 15:48:50-06:00tStart of log
+LOG: 2016-10-14 15:48:50-06:00tStart of log
+LOG: 2016-10-14 15:48:50-06:00tStart of log
+LOG: 2016-10-14 15:48:50-06:00tStart of log
+LOG: 2016-10-14 15:48:50-06:00tStart of log
+LOG: 2016-10-14 15:48:50-06:00tStart of sighting file hi.xml
+LOG: 2016-10-14 15:48:50-06:00tAldebaran	2016-03-01	23:40:01	15d01.5
+LOG: 2016-10-14 15:48:50-06:00tPeacock	2016-03-02	00:05:05	45d11.9
+LOG: 2016-10-14 15:48:50-06:00tEnd of sighting file hi.xml
+LOG: 2016-10-14 15:48:50-06:00tStart of log
+LOG: 2016-10-14 15:48:50-06:00tStart of log
+LOG: 2016-10-14 15:48:50-06:00tStart of sighting file altitudelessthan1.xml
+LOG: 2016-10-14 15:48:50-06:00tStart of log
+LOG: 2016-10-14 15:48:50-06:00tStart of sighting file missBody.xml
+LOG: 2016-10-14 15:48:50-06:00tStart of log
+LOG: 2016-10-14 15:48:50-06:00tStart of sighting file missDate.xml
+LOG: 2016-10-14 15:48:50-06:00tStart of log
+LOG: 2016-10-14 15:48:50-06:00tStart of sighting file missTime.xml
+LOG: 2016-10-14 15:48:50-06:00tStart of log
+LOG: 2016-10-14 15:48:50-06:00tStart of sighting file missobservation.xml
+LOG: 2016-10-14 15:48:50-06:00tStart of log
+LOG: 2016-10-14 15:48:50-06:00tStart of sighting file obgreatthan90.xml
+LOG: 2016-10-14 15:48:50-06:00tStart of log
+LOG: 2016-10-14 15:48:50-06:00tStart of sighting file oblessthan0ford.xml
+LOG: 2016-10-14 15:48:50-06:00tStart of log
+LOG: 2016-10-14 15:48:50-06:00tStart of sighting file oblessthan0form.xml
+LOG: 2016-10-14 15:48:50-06:00tStart of log
+LOG: 2016-10-14 15:48:50-06:00tStart of sighting file obgreatthan60.xml
+LOG: 2016-10-14 15:48:50-06:00tStart of log
+LOG: 2016-10-14 15:48:50-06:00tStart of sighting file heightlessthan0.xml
+LOG: 2016-10-14 15:48:50-06:00tStart of log
+LOG: 2016-10-14 15:48:50-06:00tStart of sighting file tempmprethan120.xml
+LOG: 2016-10-14 15:48:50-06:00tStart of log
+LOG: 2016-10-14 15:48:50-06:00tStart of sighting file templessthan-20.xml
+LOG: 2016-10-14 15:48:50-06:00tStart of log
+LOG: 2016-10-14 15:48:50-06:00tStart of sighting file preslessthan100.xml
+LOG: 2016-10-14 15:48:50-06:00tStart of log
+LOG: 2016-10-14 15:48:50-06:00tStart of sighting file presmorethan1100.xml
+LOG: 2016-10-14 15:48:50-06:00tStart of log
+LOG: 2016-10-14 15:48:50-06:00tStart of sighting file horisdifferentname.xml
+LOG: 2016-10-14 15:49:15-06:00tStart of log
+LOG: 2016-10-14 15:49:15-06:00tStart of log
+LOG: 2016-10-14 15:49:15-06:00tStart of sighting file hi.xml
+LOG: 2016-10-14 15:49:15-06:00tStart of log
+LOG: 2016-10-14 15:49:15-06:00tStart of log
+LOG: 2016-10-14 15:49:15-06:00tStart of log
+LOG: 2016-10-14 15:49:15-06:00tStart of log
+LOG: 2016-10-14 15:49:15-06:00tStart of log
+LOG: 2016-10-14 15:49:15-06:00tStart of log
+LOG: 2016-10-14 15:49:15-06:00tStart of log
+LOG: 2016-10-14 15:49:15-06:00tStart of sighting file hi.xml
+LOG: 2016-10-14 15:49:15-06:00tAldebaran	2016-03-01	23:40:01	15d01.5
+LOG: 2016-10-14 15:49:15-06:00tPeacock	2016-03-02	00:05:05	45d11.9
+LOG: 2016-10-14 15:49:15-06:00tEnd of sighting file hi.xml
+LOG: 2016-10-14 15:49:15-06:00tStart of log
+LOG: 2016-10-14 15:49:15-06:00tStart of log
+LOG: 2016-10-14 15:49:15-06:00tStart of sighting file altitudelessthan1.xml
+LOG: 2016-10-14 15:49:15-06:00tStart of log
+LOG: 2016-10-14 15:49:15-06:00tStart of sighting file missBody.xml
+LOG: 2016-10-14 15:49:15-06:00tStart of log
+LOG: 2016-10-14 15:49:15-06:00tStart of sighting file missDate.xml
+LOG: 2016-10-14 15:49:15-06:00tStart of log
+LOG: 2016-10-14 15:49:15-06:00tStart of sighting file missTime.xml
+LOG: 2016-10-14 15:49:15-06:00tStart of log
+LOG: 2016-10-14 15:49:15-06:00tStart of sighting file missobservation.xml
+LOG: 2016-10-14 15:49:15-06:00tStart of log
+LOG: 2016-10-14 15:49:15-06:00tStart of sighting file obgreatthan90.xml
+LOG: 2016-10-14 15:49:15-06:00tStart of log
+LOG: 2016-10-14 15:49:15-06:00tStart of sighting file oblessthan0ford.xml
+LOG: 2016-10-14 15:49:15-06:00tStart of log
+LOG: 2016-10-14 15:49:15-06:00tStart of sighting file oblessthan0form.xml
+LOG: 2016-10-14 15:49:15-06:00tStart of log
+LOG: 2016-10-14 15:49:15-06:00tStart of sighting file obgreatthan60.xml
+LOG: 2016-10-14 15:49:15-06:00tStart of log
+LOG: 2016-10-14 15:49:15-06:00tStart of sighting file heightlessthan0.xml
+LOG: 2016-10-14 15:49:15-06:00tStart of log
+LOG: 2016-10-14 15:49:15-06:00tStart of sighting file tempmprethan120.xml
+LOG: 2016-10-14 15:49:15-06:00tStart of log
+LOG: 2016-10-14 15:49:15-06:00tStart of sighting file templessthan-20.xml
+LOG: 2016-10-14 15:49:15-06:00tStart of log
+LOG: 2016-10-14 15:49:15-06:00tStart of sighting file preslessthan100.xml
+LOG: 2016-10-14 15:49:15-06:00tStart of log
+LOG: 2016-10-14 15:49:15-06:00tStart of sighting file presmorethan1100.xml
+LOG: 2016-10-14 15:49:15-06:00tStart of log
+LOG: 2016-10-14 15:49:15-06:00tStart of sighting file horisdifferentname.xml
+LOG: 2016-10-14 15:49:44-06:00tStart of log
+LOG: 2016-10-14 15:49:44-06:00tStart of log
+LOG: 2016-10-14 15:49:44-06:00tStart of sighting file hi.xml
+LOG: 2016-10-14 15:49:44-06:00tStart of log
+LOG: 2016-10-14 15:49:44-06:00tStart of log
+LOG: 2016-10-14 15:49:44-06:00tStart of log
+LOG: 2016-10-14 15:49:44-06:00tStart of log
+LOG: 2016-10-14 15:49:44-06:00tStart of log
+LOG: 2016-10-14 15:49:44-06:00tStart of log
+LOG: 2016-10-14 15:49:44-06:00tStart of log
+LOG: 2016-10-14 15:49:44-06:00tStart of sighting file hi.xml
+LOG: 2016-10-14 15:49:44-06:00tAldebaran	2016-03-01	23:40:01	15d01.5
+LOG: 2016-10-14 15:49:44-06:00tPeacock	2016-03-02	00:05:05	45d11.9
+LOG: 2016-10-14 15:49:44-06:00tEnd of sighting file hi.xml
+LOG: 2016-10-14 15:49:44-06:00tStart of log
+LOG: 2016-10-14 15:49:44-06:00tStart of log
+LOG: 2016-10-14 15:49:44-06:00tStart of sighting file altitudelessthan1.xml
+LOG: 2016-10-14 15:49:44-06:00tStart of log
+LOG: 2016-10-14 15:49:44-06:00tStart of sighting file missBody.xml
+LOG: 2016-10-14 15:49:44-06:00tStart of log
+LOG: 2016-10-14 15:49:44-06:00tStart of sighting file missDate.xml
+LOG: 2016-10-14 15:49:44-06:00tStart of log
+LOG: 2016-10-14 15:49:44-06:00tStart of sighting file missTime.xml
+LOG: 2016-10-14 15:49:44-06:00tStart of log
+LOG: 2016-10-14 15:49:44-06:00tStart of sighting file missobservation.xml
+LOG: 2016-10-14 15:49:44-06:00tStart of log
+LOG: 2016-10-14 15:49:44-06:00tStart of sighting file obgreatthan90.xml
+LOG: 2016-10-14 15:49:44-06:00tStart of log
+LOG: 2016-10-14 15:49:44-06:00tStart of sighting file oblessthan0ford.xml
+LOG: 2016-10-14 15:49:44-06:00tStart of log
+LOG: 2016-10-14 15:49:44-06:00tStart of sighting file oblessthan0form.xml
+LOG: 2016-10-14 15:49:44-06:00tStart of log
+LOG: 2016-10-14 15:49:44-06:00tStart of sighting file obgreatthan60.xml
+LOG: 2016-10-14 15:49:44-06:00tStart of log
+LOG: 2016-10-14 15:49:44-06:00tStart of sighting file heightlessthan0.xml
+LOG: 2016-10-14 15:49:44-06:00tStart of log
+LOG: 2016-10-14 15:49:44-06:00tStart of sighting file tempmprethan120.xml
+LOG: 2016-10-14 15:49:44-06:00tStart of log
+LOG: 2016-10-14 15:49:44-06:00tStart of sighting file templessthan-20.xml
+LOG: 2016-10-14 15:49:44-06:00tStart of log
+LOG: 2016-10-14 15:49:44-06:00tStart of sighting file preslessthan100.xml
+LOG: 2016-10-14 15:49:44-06:00tStart of log
+LOG: 2016-10-14 15:49:44-06:00tStart of sighting file presmorethan1100.xml
+LOG: 2016-10-14 15:49:44-06:00tStart of log
+LOG: 2016-10-14 15:49:44-06:00tStart of sighting file horisdifferentname.xml
+LOG: 2016-10-14 15:50:21-06:00	Start of log
+LOG: 2016-10-14 15:50:21-06:00	Start of log
+LOG: 2016-10-14 15:50:21-06:00	Start of sighting file hi.xml
+LOG: 2016-10-14 15:50:21-06:00	Start of log
+LOG: 2016-10-14 15:50:21-06:00	Start of log
+LOG: 2016-10-14 15:50:21-06:00	Start of log
+LOG: 2016-10-14 15:50:21-06:00	Start of log
+LOG: 2016-10-14 15:50:21-06:00	Start of log
+LOG: 2016-10-14 15:50:21-06:00	Start of log
+LOG: 2016-10-14 15:50:21-06:00	Start of log
+LOG: 2016-10-14 15:50:21-06:00	Start of sighting file hi.xml
+LOG: 2016-10-14 15:50:21-06:00	Aldebaran	2016-03-01	23:40:01	15d01.5
+LOG: 2016-10-14 15:50:22-06:00	Peacock	2016-03-02	00:05:05	45d11.9
+LOG: 2016-10-14 15:50:22-06:00	End of sighting file hi.xml
+LOG: 2016-10-14 15:50:22-06:00	Start of log
+LOG: 2016-10-14 15:50:22-06:00	Start of log
+LOG: 2016-10-14 15:50:22-06:00	Start of sighting file altitudelessthan1.xml
+LOG: 2016-10-14 15:50:22-06:00	Start of log
+LOG: 2016-10-14 15:50:22-06:00	Start of sighting file missBody.xml
+LOG: 2016-10-14 15:50:22-06:00	Start of log
+LOG: 2016-10-14 15:50:22-06:00	Start of sighting file missDate.xml
+LOG: 2016-10-14 15:50:22-06:00	Start of log
+LOG: 2016-10-14 15:50:22-06:00	Start of sighting file missTime.xml
+LOG: 2016-10-14 15:50:22-06:00	Start of log
+LOG: 2016-10-14 15:50:22-06:00	Start of sighting file missobservation.xml
+LOG: 2016-10-14 15:50:22-06:00	Start of log
+LOG: 2016-10-14 15:50:22-06:00	Start of sighting file obgreatthan90.xml
+LOG: 2016-10-14 15:50:22-06:00	Start of log
+LOG: 2016-10-14 15:50:22-06:00	Start of sighting file oblessthan0ford.xml
+LOG: 2016-10-14 15:50:22-06:00	Start of log
+LOG: 2016-10-14 15:50:22-06:00	Start of sighting file oblessthan0form.xml
+LOG: 2016-10-14 15:50:22-06:00	Start of log
+LOG: 2016-10-14 15:50:22-06:00	Start of sighting file obgreatthan60.xml
+LOG: 2016-10-14 15:50:22-06:00	Start of log
+LOG: 2016-10-14 15:50:22-06:00	Start of sighting file heightlessthan0.xml
+LOG: 2016-10-14 15:50:22-06:00	Start of log
+LOG: 2016-10-14 15:50:22-06:00	Start of sighting file tempmprethan120.xml
+LOG: 2016-10-14 15:50:22-06:00	Start of log
+LOG: 2016-10-14 15:50:22-06:00	Start of sighting file templessthan-20.xml
+LOG: 2016-10-14 15:50:22-06:00	Start of log
+LOG: 2016-10-14 15:50:22-06:00	Start of sighting file preslessthan100.xml
+LOG: 2016-10-14 15:50:22-06:00	Start of log
+LOG: 2016-10-14 15:50:22-06:00	Start of sighting file presmorethan1100.xml
+LOG: 2016-10-14 15:50:22-06:00	Start of log
+LOG: 2016-10-14 15:50:22-06:00	Start of sighting file horisdifferentname.xml
+LOG: 2016-10-14 15:51:25-06:00	Start of log
+LOG: 2016-10-14 15:51:25-06:00	Start of log
+LOG: 2016-10-14 15:51:25-06:00	Start of sighting file hi.xml
+LOG: 2016-10-14 15:51:25-06:00	Start of log
+LOG: 2016-10-14 15:51:25-06:00	Start of log
+LOG: 2016-10-14 15:51:25-06:00	Start of log
+LOG: 2016-10-14 15:51:25-06:00	Start of log
+LOG: 2016-10-14 15:51:25-06:00	Start of log
+LOG: 2016-10-14 15:51:25-06:00	Start of log
+LOG: 2016-10-14 15:51:25-06:00	Start of log
+LOG: 2016-10-14 15:51:25-06:00	Start of sighting file hi.xml
+LOG: 2016-10-14 15:51:25-06:00	Aldebaran	2016-03-01	23:40:01	15d01.5
+LOG: 2016-10-14 15:51:25-06:00	Peacock	2016-03-02	00:05:05	45d11.9
+LOG: 2016-10-14 15:51:25-06:00	End of sighting file hi.xml
+LOG: 2016-10-14 15:51:25-06:00	Start of log
+LOG: 2016-10-14 15:51:25-06:00	Start of log
+LOG: 2016-10-14 15:51:25-06:00	Start of sighting file altitudelessthan1.xml
+LOG: 2016-10-14 15:51:25-06:00	Start of log
+LOG: 2016-10-14 15:51:25-06:00	Start of sighting file missBody.xml
+LOG: 2016-10-14 15:51:25-06:00	Start of log
+LOG: 2016-10-14 15:51:25-06:00	Start of sighting file missDate.xml
+LOG: 2016-10-14 15:51:25-06:00	Start of log
+LOG: 2016-10-14 15:51:25-06:00	Start of sighting file missTime.xml
+LOG: 2016-10-14 15:51:25-06:00	Start of log
+LOG: 2016-10-14 15:51:25-06:00	Start of sighting file missobservation.xml
+LOG: 2016-10-14 15:51:25-06:00	Start of log
+LOG: 2016-10-14 15:51:25-06:00	Start of sighting file obgreatthan90.xml
+LOG: 2016-10-14 15:51:25-06:00	Start of log
+LOG: 2016-10-14 15:51:25-06:00	Start of sighting file oblessthan0ford.xml
+LOG: 2016-10-14 15:51:25-06:00	Start of log
+LOG: 2016-10-14 15:51:25-06:00	Start of sighting file oblessthan0form.xml
+LOG: 2016-10-14 15:51:25-06:00	Start of log
+LOG: 2016-10-14 15:51:25-06:00	Start of sighting file obgreatthan60.xml
+LOG: 2016-10-14 15:51:25-06:00	Start of log
+LOG: 2016-10-14 15:51:25-06:00	Start of sighting file heightlessthan0.xml
+LOG: 2016-10-14 15:51:25-06:00	Start of log
+LOG: 2016-10-14 15:51:25-06:00	Start of sighting file tempmprethan120.xml
+LOG: 2016-10-14 15:51:25-06:00	Start of log
+LOG: 2016-10-14 15:51:25-06:00	Start of sighting file templessthan-20.xml
+LOG: 2016-10-14 15:51:25-06:00	Start of log
+LOG: 2016-10-14 15:51:25-06:00	Start of sighting file preslessthan100.xml
+LOG: 2016-10-14 15:51:25-06:00	Start of log
+LOG: 2016-10-14 15:51:25-06:00	Start of sighting file presmorethan1100.xml
+LOG: 2016-10-14 15:51:25-06:00	Start of log
+LOG: 2016-10-14 15:51:25-06:00	Start of sighting file horisdifferentname.xml
+LOG: 2016-10-14 15:52:07-06:00	Start of log
+LOG: 2016-10-14 15:52:07-06:00	Start of log
+LOG: 2016-10-14 15:52:07-06:00	Start of sighting file hi.xml
+LOG: 2016-10-14 15:52:07-06:00	Start of log
+LOG: 2016-10-14 15:52:07-06:00	Start of log
+LOG: 2016-10-14 15:52:07-06:00	Start of log
+LOG: 2016-10-14 15:52:07-06:00	Start of log
+LOG: 2016-10-14 15:52:07-06:00	Start of log
+LOG: 2016-10-14 15:52:07-06:00	Start of log
+LOG: 2016-10-14 15:52:07-06:00	Start of log
+LOG: 2016-10-14 15:52:07-06:00	Start of sighting file hi.xml
+LOG: 2016-10-14 15:52:07-06:00	Aldebaran	2016-03-01	23:40:01	15d01.5
+LOG: 2016-10-14 15:52:07-06:00	Peacock	2016-03-02	00:05:05	45d11.9
+LOG: 2016-10-14 15:52:07-06:00	End of sighting file hi.xml
+LOG: 2016-10-14 15:52:07-06:00	Start of log
+LOG: 2016-10-14 15:52:07-06:00	Start of log
+LOG: 2016-10-14 15:52:07-06:00	Start of sighting file altitudelessthan1.xml
+LOG: 2016-10-14 15:52:07-06:00	Start of log
+LOG: 2016-10-14 15:52:07-06:00	Start of sighting file missBody.xml
+LOG: 2016-10-14 15:52:07-06:00	Start of log
+LOG: 2016-10-14 15:52:07-06:00	Start of sighting file missDate.xml
+LOG: 2016-10-14 15:52:07-06:00	Start of log
+LOG: 2016-10-14 15:52:07-06:00	Start of sighting file missTime.xml
+LOG: 2016-10-14 15:52:07-06:00	Start of log
+LOG: 2016-10-14 15:52:07-06:00	Start of sighting file missobservation.xml
+LOG: 2016-10-14 15:52:07-06:00	Start of log
+LOG: 2016-10-14 15:52:07-06:00	Start of sighting file obgreatthan90.xml
+LOG: 2016-10-14 15:52:07-06:00	Start of log
+LOG: 2016-10-14 15:52:07-06:00	Start of sighting file oblessthan0ford.xml
+LOG: 2016-10-14 15:52:07-06:00	Start of log
+LOG: 2016-10-14 15:52:07-06:00	Start of sighting file oblessthan0form.xml
+LOG: 2016-10-14 15:52:07-06:00	Start of log
+LOG: 2016-10-14 15:52:07-06:00	Start of sighting file obgreatthan60.xml
+LOG: 2016-10-14 15:52:07-06:00	Start of log
+LOG: 2016-10-14 15:52:07-06:00	Start of sighting file heightlessthan0.xml
+LOG: 2016-10-14 15:52:07-06:00	Start of log
+LOG: 2016-10-14 15:52:07-06:00	Start of sighting file tempmprethan120.xml
+LOG: 2016-10-14 15:52:07-06:00	Start of log
+LOG: 2016-10-14 15:52:07-06:00	Start of sighting file templessthan-20.xml
+LOG: 2016-10-14 15:52:07-06:00	Start of log
+LOG: 2016-10-14 15:52:07-06:00	Start of sighting file preslessthan100.xml
+LOG: 2016-10-14 15:52:07-06:00	Start of log
+LOG: 2016-10-14 15:52:07-06:00	Start of sighting file presmorethan1100.xml
+LOG: 2016-10-14 15:52:07-06:00	Start of log
+LOG: 2016-10-14 15:52:07-06:00	Start of sighting file horisdifferentname.xml
+LOG: 2016-10-14 15:52:59-06:00	Start of log
+LOG: 2016-10-14 15:52:59-06:00	Start of log
+LOG: 2016-10-14 15:52:59-06:00	Start of sighting file hi.xml
+LOG: 2016-10-14 15:52:59-06:00	Start of log
+LOG: 2016-10-14 15:52:59-06:00	Start of log
+LOG: 2016-10-14 15:52:59-06:00	Start of log
+LOG: 2016-10-14 15:52:59-06:00	Start of log
+LOG: 2016-10-14 15:52:59-06:00	Start of log
+LOG: 2016-10-14 15:52:59-06:00	Start of log
+LOG: 2016-10-14 15:52:59-06:00	Start of log
+LOG: 2016-10-14 15:52:59-06:00	Start of sighting file hi.xml
+LOG: 2016-10-14 15:52:59-06:00	Aldebaran	2016-03-01	23:40:01	15d01.5
+LOG: 2016-10-14 15:52:59-06:00	Peacock	2016-03-02	00:05:05	45d11.9
+LOG: 2016-10-14 15:52:59-06:00	End of sighting file hi.xml
+LOG: 2016-10-14 15:52:59-06:00	Start of log
+LOG: 2016-10-14 15:52:59-06:00	Start of log
+LOG: 2016-10-14 15:52:59-06:00	Start of sighting file altitudelessthan1.xml
+LOG: 2016-10-14 15:52:59-06:00	Start of log
+LOG: 2016-10-14 15:52:59-06:00	Start of sighting file missBody.xml
+LOG: 2016-10-14 15:52:59-06:00	Start of log
+LOG: 2016-10-14 15:52:59-06:00	Start of sighting file missDate.xml
+LOG: 2016-10-14 15:52:59-06:00	Start of log
+LOG: 2016-10-14 15:52:59-06:00	Start of sighting file missTime.xml
+LOG: 2016-10-14 15:52:59-06:00	Start of log
+LOG: 2016-10-14 15:52:59-06:00	Start of sighting file missobservation.xml
+LOG: 2016-10-14 15:52:59-06:00	Start of log
+LOG: 2016-10-14 15:52:59-06:00	Start of sighting file obgreatthan90.xml
+LOG: 2016-10-14 15:52:59-06:00	Start of log
+LOG: 2016-10-14 15:52:59-06:00	Start of sighting file oblessthan0ford.xml
+LOG: 2016-10-14 15:52:59-06:00	Start of log
+LOG: 2016-10-14 15:52:59-06:00	Start of sighting file oblessthan0form.xml
+LOG: 2016-10-14 15:52:59-06:00	Start of log
+LOG: 2016-10-14 15:52:59-06:00	Start of sighting file obgreatthan60.xml
+LOG: 2016-10-14 15:52:59-06:00	Start of log
+LOG: 2016-10-14 15:52:59-06:00	Start of sighting file heightlessthan0.xml
+LOG: 2016-10-14 15:52:59-06:00	Start of log
+LOG: 2016-10-14 15:52:59-06:00	Start of sighting file tempmprethan120.xml
+LOG: 2016-10-14 15:52:59-06:00	Start of log
+LOG: 2016-10-14 15:52:59-06:00	Start of sighting file templessthan-20.xml
+LOG: 2016-10-14 15:52:59-06:00	Start of log
+LOG: 2016-10-14 15:52:59-06:00	Start of sighting file preslessthan100.xml
+LOG: 2016-10-14 15:52:59-06:00	Start of log
+LOG: 2016-10-14 15:52:59-06:00	Start of sighting file presmorethan1100.xml
+LOG: 2016-10-14 15:52:59-06:00	Start of log
+LOG: 2016-10-14 15:52:59-06:00	Start of sighting file horisdifferentname.xml
+LOG: 2016-10-16 18:00:08-06:00	Start of log
+LOG: 2016-10-16 18:00:08-06:00	Start of log
+LOG: 2016-10-16 18:00:08-06:00	Start of sighting file hi.xml
+LOG: 2016-10-16 18:00:08-06:00	Start of log
+LOG: 2016-10-16 18:00:08-06:00	Start of log
+LOG: 2016-10-16 18:00:08-06:00	Start of log
+LOG: 2016-10-16 18:00:08-06:00	Start of log
+LOG: 2016-10-16 18:00:08-06:00	Start of log
+LOG: 2016-10-16 18:00:08-06:00	Start of log
+LOG: 2016-10-16 18:00:08-06:00	Start of log
+LOG: 2016-10-16 18:00:08-06:00	Start of sighting file hi.xml
+LOG: 2016-10-16 18:00:08-06:00	Aldebaran	2016-03-01	23:40:01	15d01.2
+LOG: 2016-10-16 18:00:08-06:00	Peacock	2016-03-02	00:05:05	45d11.8
+LOG: 2016-10-16 18:00:08-06:00	End of sighting file hi.xml
+LOG: 2016-10-16 18:00:09-06:00	Start of log
+LOG: 2016-10-16 18:00:09-06:00	Start of log
+LOG: 2016-10-16 18:00:09-06:00	Start of sighting file altitudelessthan1.xml
+LOG: 2016-10-16 18:00:09-06:00	Start of log
+LOG: 2016-10-16 18:00:09-06:00	Start of sighting file missBody.xml
+LOG: 2016-10-16 18:00:09-06:00	Start of log
+LOG: 2016-10-16 18:00:09-06:00	Start of sighting file missDate.xml
+LOG: 2016-10-16 18:00:09-06:00	Start of log
+LOG: 2016-10-16 18:00:09-06:00	Start of sighting file missTime.xml
+LOG: 2016-10-16 18:00:09-06:00	Start of log
+LOG: 2016-10-16 18:00:09-06:00	Start of sighting file missobservation.xml
+LOG: 2016-10-16 18:00:09-06:00	Start of log
+LOG: 2016-10-16 18:00:09-06:00	Start of sighting file obgreatthan90.xml
+LOG: 2016-10-16 18:00:09-06:00	Start of log
+LOG: 2016-10-16 18:00:09-06:00	Start of sighting file oblessthan0ford.xml
+LOG: 2016-10-16 18:00:09-06:00	Start of log
+LOG: 2016-10-16 18:00:09-06:00	Start of sighting file oblessthan0form.xml
+LOG: 2016-10-16 18:00:09-06:00	Start of log
+LOG: 2016-10-16 18:00:09-06:00	Start of sighting file obgreatthan60.xml
+LOG: 2016-10-16 18:00:09-06:00	Start of log
+LOG: 2016-10-16 18:00:09-06:00	Start of sighting file heightlessthan0.xml
+LOG: 2016-10-16 18:00:09-06:00	Start of log
+LOG: 2016-10-16 18:00:09-06:00	Start of sighting file tempmprethan120.xml
+LOG: 2016-10-16 18:00:09-06:00	Start of log
+LOG: 2016-10-16 18:00:09-06:00	Start of sighting file templessthan-20.xml
+LOG: 2016-10-16 18:00:09-06:00	Start of log
+LOG: 2016-10-16 18:00:09-06:00	Start of sighting file preslessthan100.xml
+LOG: 2016-10-16 18:00:09-06:00	Start of log
+LOG: 2016-10-16 18:00:09-06:00	Start of sighting file presmorethan1100.xml
+LOG: 2016-10-16 18:00:09-06:00	Start of log
+LOG: 2016-10-16 18:00:09-06:00	Start of sighting file horisdifferentname.xml
+LOG: 2016-10-16 18:00:23-06:00	Start of log
+LOG: 2016-10-16 18:00:23-06:00	Start of log
+LOG: 2016-10-16 18:00:23-06:00	Start of sighting file hi.xml
+LOG: 2016-10-16 18:00:23-06:00	Start of log
+LOG: 2016-10-16 18:00:23-06:00	Start of log
+LOG: 2016-10-16 18:00:23-06:00	Start of log
+LOG: 2016-10-16 18:00:23-06:00	Start of log
+LOG: 2016-10-16 18:00:23-06:00	Start of log
+LOG: 2016-10-16 18:00:23-06:00	Start of log
+LOG: 2016-10-16 18:00:23-06:00	Start of log
+LOG: 2016-10-16 18:00:23-06:00	Start of sighting file hi.xml
+LOG: 2016-10-16 18:00:23-06:00	Aldebaran	2016-03-01	23:40:01	15d01.2
+LOG: 2016-10-16 18:00:23-06:00	Peacock	2016-03-02	00:05:05	45d11.8
+LOG: 2016-10-16 18:00:23-06:00	End of sighting file hi.xml
+LOG: 2016-10-16 18:00:23-06:00	Start of log
+LOG: 2016-10-16 18:00:23-06:00	Start of log
+LOG: 2016-10-16 18:00:23-06:00	Start of sighting file altitudelessthan1.xml
+LOG: 2016-10-16 18:00:23-06:00	Start of log
+LOG: 2016-10-16 18:00:23-06:00	Start of sighting file missBody.xml
+LOG: 2016-10-16 18:00:23-06:00	Start of log
+LOG: 2016-10-16 18:00:23-06:00	Start of sighting file missDate.xml
+LOG: 2016-10-16 18:00:24-06:00	Start of log
+LOG: 2016-10-16 18:00:24-06:00	Start of sighting file missTime.xml
+LOG: 2016-10-16 18:00:24-06:00	Start of log
+LOG: 2016-10-16 18:00:24-06:00	Start of sighting file missobservation.xml
+LOG: 2016-10-16 18:00:24-06:00	Start of log
+LOG: 2016-10-16 18:00:24-06:00	Start of sighting file obgreatthan90.xml
+LOG: 2016-10-16 18:00:24-06:00	Start of log
+LOG: 2016-10-16 18:00:24-06:00	Start of sighting file oblessthan0ford.xml
+LOG: 2016-10-16 18:00:24-06:00	Start of log
+LOG: 2016-10-16 18:00:24-06:00	Start of sighting file oblessthan0form.xml
+LOG: 2016-10-16 18:00:24-06:00	Start of log
+LOG: 2016-10-16 18:00:24-06:00	Start of sighting file obgreatthan60.xml
+LOG: 2016-10-16 18:00:24-06:00	Start of log
+LOG: 2016-10-16 18:00:24-06:00	Start of sighting file heightlessthan0.xml
+LOG: 2016-10-16 18:00:24-06:00	Start of log
+LOG: 2016-10-16 18:00:24-06:00	Start of sighting file tempmprethan120.xml
+LOG: 2016-10-16 18:00:24-06:00	Start of log
+LOG: 2016-10-16 18:00:24-06:00	Start of sighting file templessthan-20.xml
+LOG: 2016-10-16 18:00:24-06:00	Start of log
+LOG: 2016-10-16 18:00:24-06:00	Start of sighting file preslessthan100.xml
+LOG: 2016-10-16 18:00:24-06:00	Start of log
+LOG: 2016-10-16 18:00:24-06:00	Start of sighting file presmorethan1100.xml
+LOG: 2016-10-16 18:00:24-06:00	Start of log
+LOG: 2016-10-16 18:00:24-06:00	Start of sighting file horisdifferentname.xml
