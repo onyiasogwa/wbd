@@ -20,3 +20,8 @@ LOG: 2016-10-16 18:00:23-06:00	Start of sighting file sortsamedateandtime.xml
 LOG: 2016-10-16 18:00:23-06:00	Rase	2016-03-01	23:40:01	10d04.4
 LOG: 2016-10-16 18:00:23-06:00	Rose	2016-03-01	23:40:01	10d04.4
 LOG: 2016-10-16 18:00:23-06:00	End of sighting file sortsamedateandtime.xml
+LOG: 2016-10-25 13:47:26-06:00	Start of log
+LOG: 2016-10-25 13:47:26-06:00	Start of sighting file sortsamedateandtime.xml
+LOG: 2016-10-25 13:47:26-06:00	Rase	2016-03-01	23:40:01	10d04.4
+LOG: 2016-10-25 13:47:26-06:00	Rose	2016-03-01	23:40:01	10d04.4
+LOG: 2016-10-25 13:47:26-06:00	End of sighting file sortsamedateandtime.xml
